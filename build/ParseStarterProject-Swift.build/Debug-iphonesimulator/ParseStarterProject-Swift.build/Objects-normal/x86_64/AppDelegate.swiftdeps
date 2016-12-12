@@ -1,0 +1,700 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppDelegate"
+provides-nominal:
+- "C25ParseStarterProject_Swift11AppDelegate"
+provides-member:
+- ["C25ParseStarterProject_Swift11AppDelegate", ""]
+provides-dynamic-lookup:
+- "application"
+- "application"
+- "application"
+- "window"
+depends-top-level:
+- !private "print"
+- !private "Void"
+- !private "Parse"
+- "UIResponder"
+- !private "UIApplicationState"
+- "StringLiteralType"
+- !private "PFPush"
+- "UIApplication"
+- "Bool"
+- "AnyObject"
+- !private "BooleanLiteralType"
+- !private "!="
+- !private "FBSDKApplicationDelegate"
+- "Data"
+- !private "ParseClientConfiguration"
+- "UIWindow"
+- !private "PFInstallation"
+- "NSObject"
+- !private "PFACL"
+- "UIApplicationDelegate"
+- "URL"
+- "AppDelegate"
+- "AssignmentPrecedence"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "FBSDKApplicationDelegate"]
+- !private ["Ps9AnyObject", "PFACL"]
+- !private ["Ps9AnyObject", "PFInstallation"]
+- !private ["Ps9AnyObject", "PFPush"]
+- !private ["Ps9AnyObject", "Parse"]
+- !private ["Ps9AnyObject", "ParseClientConfiguration"]
+- !private ["Ps9AnyObject", "UIApplicationState"]
+- ["Ps9AnyObject", "application"]
+- ["Ps9AnyObject", "applicationDidBecomeActive"]
+- ["Ps9AnyObject", "applicationDidEnterBackground"]
+- ["Ps9AnyObject", "applicationDidFinishLaunching"]
+- ["Ps9AnyObject", "applicationDidReceiveMemoryWarning"]
+- ["Ps9AnyObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9AnyObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9AnyObject", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9AnyObject", "applicationSignificantTimeChange"]
+- !private ["Ps9AnyObject", "applicationState"]
+- ["Ps9AnyObject", "applicationWillEnterForeground"]
+- ["Ps9AnyObject", "applicationWillResignActive"]
+- ["Ps9AnyObject", "applicationWillTerminate"]
+- !private ["Ps9AnyObject", "current"]
+- !private ["Ps9AnyObject", "enableLocalDatastore"]
+- !private ["Ps9AnyObject", "getPublicReadAccess"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "initialize"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "saveInBackground"]
+- !private ["Ps9AnyObject", "setDefault"]
+- !private ["Ps9AnyObject", "setDeviceTokenFrom"]
+- !private ["Ps9AnyObject", "sharedInstance"]
+- !private ["Ps9AnyObject", "subscribeToChannel"]
+- ["Ps9AnyObject", "window"]
+- ["Ps9AnyObject", ""]
+- ["C25ParseStarterProject_Swift11AppDelegate", "AnyObject"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "Bool"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "Data"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "FBSDKApplicationDelegate"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "NSObject"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "PFACL"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "PFInstallation"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "PFPush"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "Parse"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "ParseClientConfiguration"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "String"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "UIApplication"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "UIApplicationState"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "UIWindow"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "URL"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "Void"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "application"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationDidBecomeActive"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationDidEnterBackground"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationDidFinishLaunching"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationDidReceiveMemoryWarning"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationSignificantTimeChange"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationWillEnterForeground"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationWillResignActive"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "applicationWillTerminate"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "deinit"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "init"]
+- !private ["C25ParseStarterProject_Swift11AppDelegate", "print"]
+- ["C25ParseStarterProject_Swift11AppDelegate", "window"]
+- ["CSo6BFTask", "deinit"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "FBSDKApplicationDelegate"]
+- !private ["Ps7CVarArg", "PFACL"]
+- !private ["Ps7CVarArg", "PFInstallation"]
+- !private ["Ps7CVarArg", "PFPush"]
+- !private ["Ps7CVarArg", "Parse"]
+- !private ["Ps7CVarArg", "ParseClientConfiguration"]
+- !private ["Ps7CVarArg", "UIApplicationState"]
+- ["Ps7CVarArg", "application"]
+- ["Ps7CVarArg", "applicationDidBecomeActive"]
+- ["Ps7CVarArg", "applicationDidEnterBackground"]
+- ["Ps7CVarArg", "applicationDidFinishLaunching"]
+- ["Ps7CVarArg", "applicationDidReceiveMemoryWarning"]
+- ["Ps7CVarArg", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps7CVarArg", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps7CVarArg", "applicationShouldRequestHealthAuthorization"]
+- ["Ps7CVarArg", "applicationSignificantTimeChange"]
+- !private ["Ps7CVarArg", "applicationState"]
+- ["Ps7CVarArg", "applicationWillEnterForeground"]
+- ["Ps7CVarArg", "applicationWillResignActive"]
+- ["Ps7CVarArg", "applicationWillTerminate"]
+- !private ["Ps7CVarArg", "current"]
+- !private ["Ps7CVarArg", "enableLocalDatastore"]
+- !private ["Ps7CVarArg", "getPublicReadAccess"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "initialize"]
+- !private ["Ps7CVarArg", "print"]
+- !private ["Ps7CVarArg", "saveInBackground"]
+- !private ["Ps7CVarArg", "setDefault"]
+- !private ["Ps7CVarArg", "setDeviceTokenFrom"]
+- !private ["Ps7CVarArg", "sharedInstance"]
+- !private ["Ps7CVarArg", "subscribeToChannel"]
+- ["Ps7CVarArg", "window"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "FBSDKApplicationDelegate"]
+- !private ["Ps28CustomDebugStringConvertible", "PFACL"]
+- !private ["Ps28CustomDebugStringConvertible", "PFInstallation"]
+- !private ["Ps28CustomDebugStringConvertible", "PFPush"]
+- !private ["Ps28CustomDebugStringConvertible", "Parse"]
+- !private ["Ps28CustomDebugStringConvertible", "ParseClientConfiguration"]
+- !private ["Ps28CustomDebugStringConvertible", "UIApplicationState"]
+- ["Ps28CustomDebugStringConvertible", "application"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidBecomeActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidEnterBackground"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps28CustomDebugStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps28CustomDebugStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["Ps28CustomDebugStringConvertible", "applicationSignificantTimeChange"]
+- !private ["Ps28CustomDebugStringConvertible", "applicationState"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillEnterForeground"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillResignActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillTerminate"]
+- !private ["Ps28CustomDebugStringConvertible", "current"]
+- !private ["Ps28CustomDebugStringConvertible", "enableLocalDatastore"]
+- !private ["Ps28CustomDebugStringConvertible", "getPublicReadAccess"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "initialize"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "saveInBackground"]
+- !private ["Ps28CustomDebugStringConvertible", "setDefault"]
+- !private ["Ps28CustomDebugStringConvertible", "setDeviceTokenFrom"]
+- !private ["Ps28CustomDebugStringConvertible", "sharedInstance"]
+- !private ["Ps28CustomDebugStringConvertible", "subscribeToChannel"]
+- ["Ps28CustomDebugStringConvertible", "window"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "FBSDKApplicationDelegate"]
+- !private ["Ps23CustomStringConvertible", "PFACL"]
+- !private ["Ps23CustomStringConvertible", "PFInstallation"]
+- !private ["Ps23CustomStringConvertible", "PFPush"]
+- !private ["Ps23CustomStringConvertible", "Parse"]
+- !private ["Ps23CustomStringConvertible", "ParseClientConfiguration"]
+- !private ["Ps23CustomStringConvertible", "UIApplicationState"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "application"]
+- ["Ps23CustomStringConvertible", "applicationDidBecomeActive"]
+- ["Ps23CustomStringConvertible", "applicationDidEnterBackground"]
+- ["Ps23CustomStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps23CustomStringConvertible", "applicationDidReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps23CustomStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps23CustomStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["Ps23CustomStringConvertible", "applicationSignificantTimeChange"]
+- !private ["Ps23CustomStringConvertible", "applicationState"]
+- ["Ps23CustomStringConvertible", "applicationWillEnterForeground"]
+- ["Ps23CustomStringConvertible", "applicationWillResignActive"]
+- ["Ps23CustomStringConvertible", "applicationWillTerminate"]
+- !private ["Ps23CustomStringConvertible", "current"]
+- !private ["Ps23CustomStringConvertible", "enableLocalDatastore"]
+- !private ["Ps23CustomStringConvertible", "getPublicReadAccess"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "initialize"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "saveInBackground"]
+- !private ["Ps23CustomStringConvertible", "setDefault"]
+- !private ["Ps23CustomStringConvertible", "setDeviceTokenFrom"]
+- !private ["Ps23CustomStringConvertible", "sharedInstance"]
+- !private ["Ps23CustomStringConvertible", "subscribeToChannel"]
+- ["Ps23CustomStringConvertible", "window"]
+- ["Ps23CustomStringConvertible", ""]
+- ["V10Foundation4Data", "deinit"]
+- !private ["Ps9Equatable", "FBSDKApplicationDelegate"]
+- !private ["Ps9Equatable", "PFACL"]
+- !private ["Ps9Equatable", "PFInstallation"]
+- !private ["Ps9Equatable", "PFPush"]
+- !private ["Ps9Equatable", "Parse"]
+- !private ["Ps9Equatable", "ParseClientConfiguration"]
+- !private ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "UIApplicationState"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "application"]
+- ["Ps9Equatable", "applicationDidBecomeActive"]
+- ["Ps9Equatable", "applicationDidEnterBackground"]
+- ["Ps9Equatable", "applicationDidFinishLaunching"]
+- ["Ps9Equatable", "applicationDidReceiveMemoryWarning"]
+- ["Ps9Equatable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9Equatable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9Equatable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9Equatable", "applicationSignificantTimeChange"]
+- !private ["Ps9Equatable", "applicationState"]
+- ["Ps9Equatable", "applicationWillEnterForeground"]
+- ["Ps9Equatable", "applicationWillResignActive"]
+- ["Ps9Equatable", "applicationWillTerminate"]
+- !private ["Ps9Equatable", "background"]
+- !private ["Ps9Equatable", "current"]
+- !private ["Ps9Equatable", "enableLocalDatastore"]
+- !private ["Ps9Equatable", "getPublicReadAccess"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "initialize"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "saveInBackground"]
+- !private ["Ps9Equatable", "setDefault"]
+- !private ["Ps9Equatable", "setDeviceTokenFrom"]
+- !private ["Ps9Equatable", "sharedInstance"]
+- !private ["Ps9Equatable", "subscribeToChannel"]
+- ["Ps9Equatable", "window"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["CSo24FBSDKApplicationDelegate", "application"]
+- !private ["CSo24FBSDKApplicationDelegate", "sharedInstance"]
+- !private ["Ps8Hashable", "FBSDKApplicationDelegate"]
+- !private ["Ps8Hashable", "PFACL"]
+- !private ["Ps8Hashable", "PFInstallation"]
+- !private ["Ps8Hashable", "PFPush"]
+- !private ["Ps8Hashable", "Parse"]
+- !private ["Ps8Hashable", "ParseClientConfiguration"]
+- !private ["Ps8Hashable", "RawValue"]
+- !private ["Ps8Hashable", "UIApplicationState"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "application"]
+- ["Ps8Hashable", "applicationDidBecomeActive"]
+- ["Ps8Hashable", "applicationDidEnterBackground"]
+- ["Ps8Hashable", "applicationDidFinishLaunching"]
+- ["Ps8Hashable", "applicationDidReceiveMemoryWarning"]
+- ["Ps8Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps8Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps8Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps8Hashable", "applicationSignificantTimeChange"]
+- !private ["Ps8Hashable", "applicationState"]
+- ["Ps8Hashable", "applicationWillEnterForeground"]
+- ["Ps8Hashable", "applicationWillResignActive"]
+- ["Ps8Hashable", "applicationWillTerminate"]
+- !private ["Ps8Hashable", "background"]
+- !private ["Ps8Hashable", "current"]
+- !private ["Ps8Hashable", "enableLocalDatastore"]
+- !private ["Ps8Hashable", "getPublicReadAccess"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "initialize"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "saveInBackground"]
+- !private ["Ps8Hashable", "setDefault"]
+- !private ["Ps8Hashable", "setDeviceTokenFrom"]
+- !private ["Ps8Hashable", "sharedInstance"]
+- !private ["Ps8Hashable", "subscribeToChannel"]
+- ["Ps8Hashable", "window"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "getPublicReadAccess"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "setDefault"]
+- !private ["PSo9NSCopying", "getPublicReadAccess"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "setDefault"]
+- !private ["PSo9NSCopying", "subscribeToChannel"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "Data"]
+- !private ["CSo8NSObject", "FBSDKApplicationDelegate"]
+- ["CSo8NSObject", "NSObject"]
+- !private ["CSo8NSObject", "PFACL"]
+- !private ["CSo8NSObject", "PFInstallation"]
+- !private ["CSo8NSObject", "PFPush"]
+- !private ["CSo8NSObject", "Parse"]
+- !private ["CSo8NSObject", "ParseClientConfiguration"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UIApplication"]
+- !private ["CSo8NSObject", "UIApplicationState"]
+- ["CSo8NSObject", "UIWindow"]
+- ["CSo8NSObject", "URL"]
+- !private ["CSo8NSObject", "Void"]
+- ["CSo8NSObject", "application"]
+- ["CSo8NSObject", "applicationDidBecomeActive"]
+- ["CSo8NSObject", "applicationDidEnterBackground"]
+- ["CSo8NSObject", "applicationDidFinishLaunching"]
+- ["CSo8NSObject", "applicationDidReceiveMemoryWarning"]
+- ["CSo8NSObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo8NSObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo8NSObject", "applicationShouldRequestHealthAuthorization"]
+- ["CSo8NSObject", "applicationSignificantTimeChange"]
+- !private ["CSo8NSObject", "applicationState"]
+- ["CSo8NSObject", "applicationWillEnterForeground"]
+- ["CSo8NSObject", "applicationWillResignActive"]
+- ["CSo8NSObject", "applicationWillTerminate"]
+- !private ["CSo8NSObject", "current"]
+- !private ["CSo8NSObject", "enableLocalDatastore"]
+- !private ["CSo8NSObject", "getPublicReadAccess"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "initialize"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "saveInBackground"]
+- !private ["CSo8NSObject", "setDefault"]
+- !private ["CSo8NSObject", "setDeviceTokenFrom"]
+- !private ["CSo8NSObject", "sharedInstance"]
+- !private ["CSo8NSObject", "subscribeToChannel"]
+- ["CSo8NSObject", "window"]
+- !private ["PSo16NSObjectProtocol", "FBSDKApplicationDelegate"]
+- !private ["PSo16NSObjectProtocol", "PFACL"]
+- !private ["PSo16NSObjectProtocol", "PFInstallation"]
+- !private ["PSo16NSObjectProtocol", "PFPush"]
+- !private ["PSo16NSObjectProtocol", "Parse"]
+- !private ["PSo16NSObjectProtocol", "ParseClientConfiguration"]
+- !private ["PSo16NSObjectProtocol", "UIApplicationState"]
+- ["PSo16NSObjectProtocol", "application"]
+- ["PSo16NSObjectProtocol", "applicationDidBecomeActive"]
+- ["PSo16NSObjectProtocol", "applicationDidEnterBackground"]
+- ["PSo16NSObjectProtocol", "applicationDidFinishLaunching"]
+- ["PSo16NSObjectProtocol", "applicationDidReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "applicationId"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo16NSObjectProtocol", "applicationShouldRequestHealthAuthorization"]
+- ["PSo16NSObjectProtocol", "applicationSignificantTimeChange"]
+- !private ["PSo16NSObjectProtocol", "applicationState"]
+- ["PSo16NSObjectProtocol", "applicationWillEnterForeground"]
+- ["PSo16NSObjectProtocol", "applicationWillResignActive"]
+- ["PSo16NSObjectProtocol", "applicationWillTerminate"]
+- !private ["PSo16NSObjectProtocol", "clientKey"]
+- !private ["PSo16NSObjectProtocol", "current"]
+- !private ["PSo16NSObjectProtocol", "enableLocalDatastore"]
+- !private ["PSo16NSObjectProtocol", "getPublicReadAccess"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "initialize"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "saveInBackground"]
+- !private ["PSo16NSObjectProtocol", "server"]
+- !private ["PSo16NSObjectProtocol", "setDefault"]
+- !private ["PSo16NSObjectProtocol", "setDeviceTokenFrom"]
+- !private ["PSo16NSObjectProtocol", "sharedInstance"]
+- !private ["PSo16NSObjectProtocol", "subscribeToChannel"]
+- ["PSo16NSObjectProtocol", "window"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["CSo5PFACL", "deinit"]
+- !private ["CSo5PFACL", "getPublicReadAccess"]
+- !private ["CSo5PFACL", "init"]
+- !private ["CSo5PFACL", "setDefault"]
+- !private ["CSo14PFInstallation", "current"]
+- ["CSo14PFInstallation", "deinit"]
+- !private ["CSo14PFInstallation", "saveInBackground"]
+- !private ["CSo14PFInstallation", "setDeviceTokenFrom"]
+- !private ["CSo8PFObject", "current"]
+- !private ["CSo8PFObject", "saveInBackground"]
+- !private ["CSo8PFObject", "setDeviceTokenFrom"]
+- !private ["CSo6PFPush", "subscribeToChannel"]
+- !private ["PSo13PFSubclassing", "current"]
+- !private ["PSo13PFSubclassing", "saveInBackground"]
+- !private ["PSo13PFSubclassing", "setDeviceTokenFrom"]
+- !private ["CSo5Parse", "enableLocalDatastore"]
+- !private ["CSo5Parse", "initialize"]
+- ["CSo24ParseClientConfiguration", "deinit"]
+- !private ["CSo24ParseClientConfiguration", "init"]
+- !private ["PSo31ParseMutableClientConfiguration", "applicationId"]
+- !private ["PSo31ParseMutableClientConfiguration", "clientKey"]
+- !private ["PSo31ParseMutableClientConfiguration", "deinit"]
+- !private ["PSo31ParseMutableClientConfiguration", "server"]
+- !private ["Ps16RawRepresentable", "RawValue"]
+- !private ["Ps16RawRepresentable", "background"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["CSo13UIApplication", "applicationState"]
+- ["CSo13UIApplication", "deinit"]
+- !private ["PSo21UIApplicationDelegate", "FBSDKApplicationDelegate"]
+- !private ["PSo21UIApplicationDelegate", "PFACL"]
+- !private ["PSo21UIApplicationDelegate", "PFInstallation"]
+- !private ["PSo21UIApplicationDelegate", "PFPush"]
+- !private ["PSo21UIApplicationDelegate", "Parse"]
+- !private ["PSo21UIApplicationDelegate", "ParseClientConfiguration"]
+- !private ["PSo21UIApplicationDelegate", "UIApplicationState"]
+- ["PSo21UIApplicationDelegate", "application"]
+- ["PSo21UIApplicationDelegate", "applicationDidBecomeActive"]
+- ["PSo21UIApplicationDelegate", "applicationDidEnterBackground"]
+- ["PSo21UIApplicationDelegate", "applicationDidFinishLaunching"]
+- ["PSo21UIApplicationDelegate", "applicationDidReceiveMemoryWarning"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo21UIApplicationDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["PSo21UIApplicationDelegate", "applicationSignificantTimeChange"]
+- ["PSo21UIApplicationDelegate", "applicationWillEnterForeground"]
+- ["PSo21UIApplicationDelegate", "applicationWillResignActive"]
+- ["PSo21UIApplicationDelegate", "applicationWillTerminate"]
+- !private ["PSo21UIApplicationDelegate", "print"]
+- ["PSo21UIApplicationDelegate", "window"]
+- ["PSo21UIApplicationDelegate", ""]
+- !private ["OSC18UIApplicationState", "RawValue"]
+- !private ["OSC18UIApplicationState", "background"]
+- ["OSC18UIApplicationState", "deinit"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "Data"]
+- !private ["CSo11UIResponder", "FBSDKApplicationDelegate"]
+- ["CSo11UIResponder", "NSObject"]
+- !private ["CSo11UIResponder", "PFACL"]
+- !private ["CSo11UIResponder", "PFInstallation"]
+- !private ["CSo11UIResponder", "PFPush"]
+- !private ["CSo11UIResponder", "Parse"]
+- !private ["CSo11UIResponder", "ParseClientConfiguration"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UIApplication"]
+- !private ["CSo11UIResponder", "UIApplicationState"]
+- ["CSo11UIResponder", "UIWindow"]
+- ["CSo11UIResponder", "URL"]
+- !private ["CSo11UIResponder", "Void"]
+- ["CSo11UIResponder", "application"]
+- ["CSo11UIResponder", "applicationDidBecomeActive"]
+- ["CSo11UIResponder", "applicationDidEnterBackground"]
+- ["CSo11UIResponder", "applicationDidFinishLaunching"]
+- ["CSo11UIResponder", "applicationDidReceiveMemoryWarning"]
+- ["CSo11UIResponder", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo11UIResponder", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo11UIResponder", "applicationShouldRequestHealthAuthorization"]
+- ["CSo11UIResponder", "applicationSignificantTimeChange"]
+- !private ["CSo11UIResponder", "applicationState"]
+- ["CSo11UIResponder", "applicationWillEnterForeground"]
+- ["CSo11UIResponder", "applicationWillResignActive"]
+- ["CSo11UIResponder", "applicationWillTerminate"]
+- ["CSo11UIResponder", "deinit"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "window"]
+- ["CSo11UIResponder", ""]
+- !private ["PSo30UIResponderStandardEditActions", "FBSDKApplicationDelegate"]
+- !private ["PSo30UIResponderStandardEditActions", "PFACL"]
+- !private ["PSo30UIResponderStandardEditActions", "PFInstallation"]
+- !private ["PSo30UIResponderStandardEditActions", "PFPush"]
+- !private ["PSo30UIResponderStandardEditActions", "Parse"]
+- !private ["PSo30UIResponderStandardEditActions", "ParseClientConfiguration"]
+- !private ["PSo30UIResponderStandardEditActions", "UIApplicationState"]
+- ["PSo30UIResponderStandardEditActions", "application"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidBecomeActive"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidEnterBackground"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidFinishLaunching"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidReceiveMemoryWarning"]
+- ["PSo30UIResponderStandardEditActions", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo30UIResponderStandardEditActions", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo30UIResponderStandardEditActions", "applicationShouldRequestHealthAuthorization"]
+- ["PSo30UIResponderStandardEditActions", "applicationSignificantTimeChange"]
+- !private ["PSo30UIResponderStandardEditActions", "applicationState"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillEnterForeground"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillResignActive"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillTerminate"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- ["PSo30UIResponderStandardEditActions", "window"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["V10Foundation3URL", "deinit"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "FBSDKApplicationDelegate"]
+- !private ["Ps9_Hashable", "PFACL"]
+- !private ["Ps9_Hashable", "PFInstallation"]
+- !private ["Ps9_Hashable", "PFPush"]
+- !private ["Ps9_Hashable", "Parse"]
+- !private ["Ps9_Hashable", "ParseClientConfiguration"]
+- !private ["Ps9_Hashable", "RawValue"]
+- !private ["Ps9_Hashable", "UIApplicationState"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "application"]
+- ["Ps9_Hashable", "applicationDidBecomeActive"]
+- ["Ps9_Hashable", "applicationDidEnterBackground"]
+- ["Ps9_Hashable", "applicationDidFinishLaunching"]
+- ["Ps9_Hashable", "applicationDidReceiveMemoryWarning"]
+- ["Ps9_Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9_Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9_Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9_Hashable", "applicationSignificantTimeChange"]
+- !private ["Ps9_Hashable", "applicationState"]
+- ["Ps9_Hashable", "applicationWillEnterForeground"]
+- ["Ps9_Hashable", "applicationWillResignActive"]
+- ["Ps9_Hashable", "applicationWillTerminate"]
+- !private ["Ps9_Hashable", "background"]
+- !private ["Ps9_Hashable", "current"]
+- !private ["Ps9_Hashable", "enableLocalDatastore"]
+- !private ["Ps9_Hashable", "getPublicReadAccess"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "initialize"]
+- !private ["Ps9_Hashable", "print"]
+- !private ["Ps9_Hashable", "saveInBackground"]
+- !private ["Ps9_Hashable", "setDefault"]
+- !private ["Ps9_Hashable", "setDeviceTokenFrom"]
+- !private ["Ps9_Hashable", "sharedInstance"]
+- !private ["Ps9_Hashable", "subscribeToChannel"]
+- ["Ps9_Hashable", "window"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C25ParseStarterProject_Swift11AppDelegate"
+- "CSo6BFTask"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "V10Foundation4Data"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "CSo24FBSDKApplicationDelegate"
+- "Ps8Hashable"
+- "SQ"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "CSo5PFACL"
+- "CSo14PFInstallation"
+- !private "CSo8PFObject"
+- !private "CSo6PFPush"
+- !private "PSo13PFSubclassing"
+- !private "CSo5Parse"
+- "CSo24ParseClientConfiguration"
+- !private "PSo31ParseMutableClientConfiguration"
+- !private "Ps16RawRepresentable"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "CSo13UIApplication"
+- "PSo21UIApplicationDelegate"
+- "OSC18UIApplicationState"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "V10Foundation3URL"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFURL.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFTask.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFDefines.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BoltsVersion.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/Bolts.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Modules/module.modulemap"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFPurchase.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFProduct.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFPush+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFPush+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFPush.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFNetworkActivityIndicatorManager.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFInstallation.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFUserAuthenticationDelegate.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFUser+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFUser+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFSession.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFRole.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFRelation.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFQuery+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFQuery+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFQuery.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFObject+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFObject+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFObject+Subclass.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFGeoPoint.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFFile+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFFile+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFFile.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFConfig+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFConfig.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFCloud+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFCloud+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFCloud.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFAnonymousUtils+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFSubclassing.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFObject.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFUser.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFAnonymousUtils.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFAnalytics.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFACL.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFConstants.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/ParseClientConfiguration.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/Parse.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKMacros.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Modules/module.modulemap"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Modules/module.modulemap"
+interface-hash: "7ccbf914c9131065d5b6948e0a3c77ff"

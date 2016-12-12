@@ -1,0 +1,630 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "matchesTableViewCell"
+provides-nominal:
+- "C25ParseStarterProject_Swift20matchesTableViewCell"
+provides-member:
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", ""]
+provides-dynamic-lookup:
+- "matchedUserLabel"
+- "messageTextField"
+- "send"
+- "setSelected"
+- "awakeFromNib"
+- "userImageView"
+- "userIdLabel"
+depends-top-level:
+- "matchesTableViewCell"
+- !private "PFUser"
+- "UITableViewCell"
+- "AssignmentPrecedence"
+- !private "PFObject"
+- !private "print"
+- !private "StringLiteralType"
+- "UIImageView"
+- "UILabel"
+- "UITextField"
+- "Bool"
+depends-member:
+- !private ["Ps9AnyObject", "PFObject"]
+- !private ["Ps9AnyObject", "PFUser"]
+- ["Ps9AnyObject", "awakeFromNib"]
+- !private ["Ps9AnyObject", "current"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "matchedUserLabel"]
+- ["Ps9AnyObject", "messageTextField"]
+- !private ["Ps9AnyObject", "objectId"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "saveInBackground"]
+- ["Ps9AnyObject", "send"]
+- ["Ps9AnyObject", "setSelected"]
+- !private ["Ps9AnyObject", "subscript"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", "userIdLabel"]
+- ["Ps9AnyObject", "userImageView"]
+- ["Ps9AnyObject", ""]
+- ["CSo6BFTask", "deinit"]
+- ["Sb", "deinit"]
+- !private ["PSo15CALayerDelegate", "PFObject"]
+- !private ["PSo15CALayerDelegate", "PFUser"]
+- ["PSo15CALayerDelegate", "awakeFromNib"]
+- !private ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", "matchedUserLabel"]
+- ["PSo15CALayerDelegate", "messageTextField"]
+- !private ["PSo15CALayerDelegate", "print"]
+- ["PSo15CALayerDelegate", "send"]
+- ["PSo15CALayerDelegate", "setSelected"]
+- !private ["PSo15CALayerDelegate", "text"]
+- ["PSo15CALayerDelegate", "userIdLabel"]
+- ["PSo15CALayerDelegate", "userImageView"]
+- ["PSo15CALayerDelegate", ""]
+- !private ["Ps7CVarArg", "PFObject"]
+- !private ["Ps7CVarArg", "PFUser"]
+- ["Ps7CVarArg", "awakeFromNib"]
+- !private ["Ps7CVarArg", "current"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "matchedUserLabel"]
+- ["Ps7CVarArg", "messageTextField"]
+- !private ["Ps7CVarArg", "objectId"]
+- !private ["Ps7CVarArg", "print"]
+- !private ["Ps7CVarArg", "saveInBackground"]
+- ["Ps7CVarArg", "send"]
+- ["Ps7CVarArg", "setSelected"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps7CVarArg", "text"]
+- ["Ps7CVarArg", "userIdLabel"]
+- ["Ps7CVarArg", "userImageView"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "PFObject"]
+- !private ["Ps28CustomDebugStringConvertible", "PFUser"]
+- ["Ps28CustomDebugStringConvertible", "awakeFromNib"]
+- !private ["Ps28CustomDebugStringConvertible", "current"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "matchedUserLabel"]
+- ["Ps28CustomDebugStringConvertible", "messageTextField"]
+- !private ["Ps28CustomDebugStringConvertible", "objectId"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "saveInBackground"]
+- ["Ps28CustomDebugStringConvertible", "send"]
+- ["Ps28CustomDebugStringConvertible", "setSelected"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", "userIdLabel"]
+- ["Ps28CustomDebugStringConvertible", "userImageView"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "PFObject"]
+- !private ["Ps23CustomStringConvertible", "PFUser"]
+- ["Ps23CustomStringConvertible", "awakeFromNib"]
+- !private ["Ps23CustomStringConvertible", "current"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "matchedUserLabel"]
+- ["Ps23CustomStringConvertible", "messageTextField"]
+- !private ["Ps23CustomStringConvertible", "objectId"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "saveInBackground"]
+- ["Ps23CustomStringConvertible", "send"]
+- ["Ps23CustomStringConvertible", "setSelected"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", "userIdLabel"]
+- ["Ps23CustomStringConvertible", "userImageView"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "PFObject"]
+- !private ["Ps9Equatable", "PFUser"]
+- ["Ps9Equatable", "awakeFromNib"]
+- !private ["Ps9Equatable", "current"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "matchedUserLabel"]
+- ["Ps9Equatable", "messageTextField"]
+- !private ["Ps9Equatable", "objectId"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "saveInBackground"]
+- ["Ps9Equatable", "send"]
+- ["Ps9Equatable", "setSelected"]
+- !private ["Ps9Equatable", "subscript"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", "userIdLabel"]
+- ["Ps9Equatable", "userImageView"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "PFObject"]
+- !private ["Ps8Hashable", "PFUser"]
+- ["Ps8Hashable", "awakeFromNib"]
+- !private ["Ps8Hashable", "current"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "matchedUserLabel"]
+- ["Ps8Hashable", "messageTextField"]
+- !private ["Ps8Hashable", "objectId"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "saveInBackground"]
+- ["Ps8Hashable", "send"]
+- ["Ps8Hashable", "setSelected"]
+- !private ["Ps8Hashable", "subscript"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", "userIdLabel"]
+- ["Ps8Hashable", "userImageView"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "PFObject"]
+- !private ["PSo8NSCoding", "PFUser"]
+- ["PSo8NSCoding", "awakeFromNib"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "matchedUserLabel"]
+- ["PSo8NSCoding", "messageTextField"]
+- !private ["PSo8NSCoding", "print"]
+- ["PSo8NSCoding", "send"]
+- ["PSo8NSCoding", "setSelected"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "userIdLabel"]
+- ["PSo8NSCoding", "userImageView"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "PFObject"]
+- !private ["CSo8NSObject", "PFUser"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "UITextField"]
+- ["CSo8NSObject", "awakeFromNib"]
+- !private ["CSo8NSObject", "current"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "matchedUserLabel"]
+- ["CSo8NSObject", "messageTextField"]
+- !private ["CSo8NSObject", "objectId"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "saveInBackground"]
+- ["CSo8NSObject", "send"]
+- ["CSo8NSObject", "setSelected"]
+- !private ["CSo8NSObject", "subscript"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "userIdLabel"]
+- ["CSo8NSObject", "userImageView"]
+- !private ["PSo16NSObjectProtocol", "PFObject"]
+- !private ["PSo16NSObjectProtocol", "PFUser"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- !private ["PSo16NSObjectProtocol", "current"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "matchedUserLabel"]
+- ["PSo16NSObjectProtocol", "messageTextField"]
+- !private ["PSo16NSObjectProtocol", "objectId"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "saveInBackground"]
+- ["PSo16NSObjectProtocol", "send"]
+- ["PSo16NSObjectProtocol", "setSelected"]
+- !private ["PSo16NSObjectProtocol", "subscript"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "userIdLabel"]
+- ["PSo16NSObjectProtocol", "userImageView"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- !private ["CSo8PFObject", "current"]
+- ["CSo8PFObject", "deinit"]
+- !private ["CSo8PFObject", "init"]
+- !private ["CSo8PFObject", "objectId"]
+- !private ["CSo8PFObject", "saveInBackground"]
+- !private ["CSo8PFObject", "subscript"]
+- !private ["PSo13PFSubclassing", "current"]
+- !private ["PSo13PFSubclassing", "objectId"]
+- !private ["CSo6PFUser", "current"]
+- ["CSo6PFUser", "deinit"]
+- !private ["CSo6PFUser", "objectId"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "PFObject"]
+- !private ["PSo29UIAccessibilityIdentification", "PFUser"]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "matchedUserLabel"]
+- ["PSo29UIAccessibilityIdentification", "messageTextField"]
+- !private ["PSo29UIAccessibilityIdentification", "print"]
+- ["PSo29UIAccessibilityIdentification", "send"]
+- ["PSo29UIAccessibilityIdentification", "setSelected"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- ["PSo29UIAccessibilityIdentification", "userIdLabel"]
+- ["PSo29UIAccessibilityIdentification", "userImageView"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "PFObject"]
+- !private ["PSo12UIAppearance", "PFUser"]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- !private ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "matchedUserLabel"]
+- ["PSo12UIAppearance", "messageTextField"]
+- !private ["PSo12UIAppearance", "print"]
+- ["PSo12UIAppearance", "send"]
+- ["PSo12UIAppearance", "setSelected"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo12UIAppearance", "userIdLabel"]
+- ["PSo12UIAppearance", "userImageView"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "PFObject"]
+- !private ["PSo21UIAppearanceContainer", "PFUser"]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "matchedUserLabel"]
+- ["PSo21UIAppearanceContainer", "messageTextField"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- ["PSo21UIAppearanceContainer", "send"]
+- ["PSo21UIAppearanceContainer", "setSelected"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "userIdLabel"]
+- ["PSo21UIAppearanceContainer", "userImageView"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["CSo9UIControl", "text"]
+- !private ["PSo17UICoordinateSpace", "PFObject"]
+- !private ["PSo17UICoordinateSpace", "PFUser"]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "matchedUserLabel"]
+- ["PSo17UICoordinateSpace", "messageTextField"]
+- !private ["PSo17UICoordinateSpace", "print"]
+- ["PSo17UICoordinateSpace", "send"]
+- ["PSo17UICoordinateSpace", "setSelected"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- ["PSo17UICoordinateSpace", "userIdLabel"]
+- ["PSo17UICoordinateSpace", "userImageView"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "PFObject"]
+- !private ["PSo13UIDynamicItem", "PFUser"]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- !private ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "matchedUserLabel"]
+- ["PSo13UIDynamicItem", "messageTextField"]
+- !private ["PSo13UIDynamicItem", "print"]
+- ["PSo13UIDynamicItem", "send"]
+- ["PSo13UIDynamicItem", "setSelected"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo13UIDynamicItem", "userIdLabel"]
+- ["PSo13UIDynamicItem", "userImageView"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "PFObject"]
+- !private ["PSo18UIFocusEnvironment", "PFUser"]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "matchedUserLabel"]
+- ["PSo18UIFocusEnvironment", "messageTextField"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- ["PSo18UIFocusEnvironment", "send"]
+- ["PSo18UIFocusEnvironment", "setSelected"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "userIdLabel"]
+- ["PSo18UIFocusEnvironment", "userImageView"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "PFObject"]
+- !private ["PSo11UIFocusItem", "PFUser"]
+- ["PSo11UIFocusItem", "awakeFromNib"]
+- !private ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", "matchedUserLabel"]
+- ["PSo11UIFocusItem", "messageTextField"]
+- !private ["PSo11UIFocusItem", "print"]
+- ["PSo11UIFocusItem", "send"]
+- ["PSo11UIFocusItem", "setSelected"]
+- !private ["PSo11UIFocusItem", "text"]
+- ["PSo11UIFocusItem", "userIdLabel"]
+- ["PSo11UIFocusItem", "userImageView"]
+- ["PSo11UIFocusItem", ""]
+- !private ["PSo27UIGestureRecognizerDelegate", "PFObject"]
+- !private ["PSo27UIGestureRecognizerDelegate", "PFUser"]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- !private ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "matchedUserLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "messageTextField"]
+- !private ["PSo27UIGestureRecognizerDelegate", "print"]
+- ["PSo27UIGestureRecognizerDelegate", "send"]
+- ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- ["PSo27UIGestureRecognizerDelegate", "userIdLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "userImageView"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- !private ["PSo10UIKeyInput", "text"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "PFObject"]
+- !private ["CSo11UIResponder", "PFUser"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "UITextField"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "matchedUserLabel"]
+- ["CSo11UIResponder", "messageTextField"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "send"]
+- ["CSo11UIResponder", "setSelected"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "userIdLabel"]
+- ["CSo11UIResponder", "userImageView"]
+- !private ["PSo30UIResponderStandardEditActions", "PFObject"]
+- !private ["PSo30UIResponderStandardEditActions", "PFUser"]
+- ["PSo30UIResponderStandardEditActions", "awakeFromNib"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "matchedUserLabel"]
+- ["PSo30UIResponderStandardEditActions", "messageTextField"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- ["PSo30UIResponderStandardEditActions", "send"]
+- ["PSo30UIResponderStandardEditActions", "setSelected"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- ["PSo30UIResponderStandardEditActions", "userIdLabel"]
+- ["PSo30UIResponderStandardEditActions", "userImageView"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo15UITableViewCell", "Bool"]
+- !private ["CSo15UITableViewCell", "PFObject"]
+- !private ["CSo15UITableViewCell", "PFUser"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "UITextField"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "deinit"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "matchedUserLabel"]
+- ["CSo15UITableViewCell", "messageTextField"]
+- !private ["CSo15UITableViewCell", "print"]
+- ["CSo15UITableViewCell", "send"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", "userIdLabel"]
+- ["CSo15UITableViewCell", "userImageView"]
+- ["CSo15UITableViewCell", ""]
+- ["OSC20UITableViewCellStyle", "deinit"]
+- !private ["CSo11UITextField", "text"]
+- !private ["PSo11UITextInput", "text"]
+- !private ["PSo17UITextInputTraits", "text"]
+- !private ["PSo18UITraitEnvironment", "PFObject"]
+- !private ["PSo18UITraitEnvironment", "PFUser"]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "matchedUserLabel"]
+- ["PSo18UITraitEnvironment", "messageTextField"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- ["PSo18UITraitEnvironment", "send"]
+- ["PSo18UITraitEnvironment", "setSelected"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "userIdLabel"]
+- ["PSo18UITraitEnvironment", "userImageView"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- !private ["CSo6UIView", "PFObject"]
+- !private ["CSo6UIView", "PFUser"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "UITextField"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "matchedUserLabel"]
+- ["CSo6UIView", "messageTextField"]
+- !private ["CSo6UIView", "print"]
+- ["CSo6UIView", "send"]
+- ["CSo6UIView", "setSelected"]
+- !private ["CSo6UIView", "text"]
+- ["CSo6UIView", "userIdLabel"]
+- ["CSo6UIView", "userImageView"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "PFObject"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "PFUser"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "awakeFromNib"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "matchedUserLabel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "messageTextField"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "print"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "send"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "setSelected"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "userIdLabel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "userImageView"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "PFObject"]
+- !private ["Ps9_Hashable", "PFUser"]
+- ["Ps9_Hashable", "awakeFromNib"]
+- !private ["Ps9_Hashable", "current"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "matchedUserLabel"]
+- ["Ps9_Hashable", "messageTextField"]
+- !private ["Ps9_Hashable", "objectId"]
+- !private ["Ps9_Hashable", "print"]
+- !private ["Ps9_Hashable", "saveInBackground"]
+- ["Ps9_Hashable", "send"]
+- ["Ps9_Hashable", "setSelected"]
+- !private ["Ps9_Hashable", "subscript"]
+- !private ["Ps9_Hashable", "text"]
+- ["Ps9_Hashable", "userIdLabel"]
+- ["Ps9_Hashable", "userImageView"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "Bool"]
+- !private ["C25ParseStarterProject_Swift20matchesTableViewCell", "PFObject"]
+- !private ["C25ParseStarterProject_Swift20matchesTableViewCell", "PFUser"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "UIImageView"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "UILabel"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "UITextField"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "awakeFromNib"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "deinit"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "init"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "matchedUserLabel"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "messageTextField"]
+- !private ["C25ParseStarterProject_Swift20matchesTableViewCell", "print"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "send"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "setSelected"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "userIdLabel"]
+- ["C25ParseStarterProject_Swift20matchesTableViewCell", "userImageView"]
+depends-nominal:
+- "Ps9AnyObject"
+- "CSo6BFTask"
+- "Sb"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "SQ"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "CSo8PFObject"
+- !private "PSo13PFSubclassing"
+- "CSo6PFUser"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- !private "CSo9UIControl"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "PSo27UIGestureRecognizerDelegate"
+- !private "PSo10UIKeyInput"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo15UITableViewCell"
+- "OSC20UITableViewCellStyle"
+- !private "CSo11UITextField"
+- !private "PSo11UITextInput"
+- !private "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- "C25ParseStarterProject_Swift20matchesTableViewCell"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFURL.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFTask.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFDefines.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/BoltsVersion.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Headers/Bolts.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Bolts.framework/Modules/module.modulemap"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFPurchase.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFProduct.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFPush+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFPush+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFPush.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFNetworkActivityIndicatorManager.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFInstallation.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFUserAuthenticationDelegate.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFUser+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFUser+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFSession.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFRole.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFRelation.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFQuery+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFQuery+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFQuery.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFObject+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFObject+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFObject+Subclass.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFGeoPoint.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFFile+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFFile+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFFile.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFConfig+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFConfig.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFCloud+Synchronous.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFCloud+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFCloud.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFAnonymousUtils+Deprecated.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFSubclassing.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFObject.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFUser.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFAnonymousUtils.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFAnalytics.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFACL.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/PFConstants.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/ParseClientConfiguration.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Headers/Parse.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/Parse.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKMacros.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKCoreKit.framework/Modules/module.modulemap"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h"
+- "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/FBSDKLoginKit.framework/Modules/module.modulemap"
+interface-hash: "836016de4eb257d8fd5c1f0b272b4126"

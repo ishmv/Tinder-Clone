@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "a738b3bf2660aa89e2bf4f6ee1b34877"
+build_time: [534843747, 522875000]
+inputs:
+  "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/ParseStarterProject/ViewController.swift": [534814919, 0]
+  "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/ParseStarterProject/AppDelegate.swift": [534843434, 0]
+  "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/ParseStarterProject/UserDetailsViewController.swift": [534224633, 0]
+  "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/matchesViewController.swift": [534732319, 0]
+  "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/ParseStarterProject/swipeViewController.swift": [534721149, 0]
+  "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/ParseStarterProject/facebookLooginViewController.swift": [534814639, 0]
+  "/Users/Adhita/Documents/iOS_Apps/Tinder/Tinder Clone/ParseStarterProject/matchesTableViewCell.swift": [534728720, 0]
